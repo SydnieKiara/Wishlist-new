@@ -1,10 +1,10 @@
 # Android Project 2 - *Wishlist*
 
-Submitted by: **Joshua Jolly**
+Submitted by: **Sydnie Johnson**
 
 **Wishlist** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **6** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -31,10 +31,9 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
+
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
@@ -42,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Sydnie Johnson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
